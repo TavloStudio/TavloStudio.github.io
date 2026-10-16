@@ -1,0 +1,30 @@
+# Tavlo Studio
+
+> Tavlo Studio (formerly Nexora Tech) is a website, product and branding design studio founded in 2021 by Afolabi Oluwaseyi Christopher in Ado Ekiti, Nigeria. It serves clients worldwide, remotely.
+
+## Services
+- [Website Design](https://tavlostudio.github.io/#/service/website): custom, fast, mobile-friendly websites
+- [Shopify Development](https://tavlostudio.github.io/#/service/shopify): Shopify stores built for conversion
+- [UI/UX & Product Design](https://tavlostudio.github.io/#/service/product-design): interfaces for web and apps
+- [Branding Design](https://tavlostudio.github.io/#/service/branding): logos and brand identities
+- [AI-Powered Websites](https://tavlostudio.github.io/#/service/ai): websites with built-in AI chat and automation
+- [SEO, GEO & AEO](https://tavlostudio.github.io/#/service/search): search, generative and answer-engine optimization (custom quote)
+
+## Key facts
+- Pricing: websites from $499 (Starter), $999 (Growth), $1,999+ (Premium)
+- Delivery: 7–14 days for websites, 5–10 days for Shopify stores
+- Support: 30 days of free post-launch support
+- Contact: [nexoratech221@gmail.com](mailto:nexoratech221@gmail.com) or [WhatsApp](https://wa.me/2349068643075)
+
+## Work
+- [Freckled Poppy](https://freckledpoppy.com): Shopify boutique store
+- [SVBFLOR](https://svbflor.com): Shopify basewear store
+- [Outfits By SA](https://outfitsbysa.com): Shopify menswear store
+- [Navorae](https://navorae.com): Shopify single-product store
+- [ahlwoprime](https://ahlwoprime.com): Shopify general store
+
+## Links
+- [Home](https://tavlostudio.github.io/)
+- [Fiverr: Shopify and web design](https://www.fiverr.com/christopher0848)
+- [Fiverr: SEO, GEO and AEO](https://www.fiverr.com/temiteee21)
+- [Clutch profile](https://clutch.co/profile/nexora-tech-2)
